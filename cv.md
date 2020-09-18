@@ -2,10 +2,10 @@
 
 ## Contacts
 
-- _e-mail:_ [bekhzodturdialiev@gmail.com](mailto:bekhzodturdialiev@gmail.com)
-- _phone:_ +998 (90) 3298043
-- _github:_ [@kiral439](https://github.com/kiral439)
-- _telegram:_ [@BekhzodTurdialiev](https://t.me/BekhzodTurdialiev)
+- **e-mail:** [bekhzodturdialiev@gmail.com](mailto:bekhzodturdialiev@gmail.com)
+- **phone:** +998 (90) 3298043
+- **github:** [@kiral439](https://github.com/kiral439)
+- **telegram:** [@BekhzodTurdialiev](https://t.me/BekhzodTurdialiev)
 
 ## Profile
 
@@ -41,16 +41,16 @@ I have completed several projects in university. [Inventory Management System](h
 
 ## Education
 
-- _Nanjing University of Information Science and Technology(Nanjing, China)_
+- **Nanjing University of Information Science and Technology(Nanjing, China)**
   Bachelor of Science in Software Engineering | September 2017 - June 2021
 
-- _Vue.js training by CESS of NUIST_
+- **Vue.js training by CESS of NUIST**
   July - August 2020
 
-- _Sails.js training by CESS of NUIST_
+- **Sails.js training by CESS of NUIST**
   August 2020
 
-- _Professional College of Computer Technologies Named after H.Z.Kalanov(Tashkent, Uzbekistan)_
+- **Professional College of Computer Technologies Named after H.Z.Kalanov(Tashkent, Uzbekistan)**
   Associate of Science in Information and Communication Systems | September 2009 - June 2012
 
 ## English

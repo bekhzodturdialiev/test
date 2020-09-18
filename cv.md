@@ -42,8 +42,7 @@ I have completed several projects in university. [Inventory Management System](h
 ## Education
 
 - **Nanjing University of Information Science and Technology(Nanjing, China)**
-
-Bachelor of Science in Software Engineering | September 2017 - June 2021
+  Bachelor of Science in Software Engineering | September 2017 - June 2021
 
 - **Vue.js training by CESS of NUIST**
   July - August 2020
